@@ -15,7 +15,6 @@
   "dependencies": {
     "@welldone-software/why-did-you-render": "^6.0.3",
     "goods-core": "^1.6.5",
-    "goods-ui": "^1.10.5",
     "immer": "^8.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
