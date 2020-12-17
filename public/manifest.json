@@ -1,0 +1,20 @@
+{
+  "name": "Kitabisa Campaign",
+  "short_name": "Kitabisa Campaign",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#00aeef",
+  "background_color": "#00aeef",
+  "icons": [
+    {
+      "src": "favicons/icon-lite-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "favicons/icon-lite-192.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
