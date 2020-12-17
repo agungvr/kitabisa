@@ -1,5 +1,7 @@
 ## Kitabisa Test - [https://kitabisa-test.netlify.app/](https://kitabisa-test.netlify.app/)
 
+![campaign](./lighthouse.png)
+
 ### Application Structure
 
 #### • Core Dependencies
